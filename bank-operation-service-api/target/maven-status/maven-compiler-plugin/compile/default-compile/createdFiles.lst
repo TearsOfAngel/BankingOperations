@@ -1,0 +1,6 @@
+ru/vcarstein/dto/TokenRefreshRequest.class
+ru/vcarstein/dto/UserSearchDTO.class
+ru/vcarstein/dto/TransferRequest.class
+ru/vcarstein/dto/AuthRequest.class
+ru/vcarstein/dto/AuthResponse.class
+ru/vcarstein/dto/UpdateContactDTO.class

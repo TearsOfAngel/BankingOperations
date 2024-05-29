@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres
+    container_name: postgresDB
+    restart: always
+    environment:
+      - POSTGRES_DB=bank
+      - POSTGRES_USER=userok
+      - POSTGRES_PASSWORD=123456
+    ports:
+      - "5432:5432"
+volumes:
+  pgdata:
+    external: true
