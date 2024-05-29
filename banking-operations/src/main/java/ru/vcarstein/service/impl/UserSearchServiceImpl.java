@@ -11,7 +11,7 @@ import ru.vcarstein.entity.User;
 import ru.vcarstein.mapper.UserMapper;
 import ru.vcarstein.repository.UserRepository;
 import ru.vcarstein.service.UserSearchService;
-import ru.vcarstein.specification.UserSpecification;
+import ru.vcarstein.repository.specification.UserSpecification;
 
 import java.util.List;
 
