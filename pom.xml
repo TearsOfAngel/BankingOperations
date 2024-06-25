@@ -17,9 +17,8 @@
     </parent>
 
     <modules>
-        <module>bank-operation-service-app</module>
-        <module>banking-operations</module>
         <module>bank-operation-service-api</module>
+        <module>bank-operations-service-app</module>
     </modules>
 
     <dependencies>
